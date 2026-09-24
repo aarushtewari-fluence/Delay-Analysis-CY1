@@ -1239,7 +1239,7 @@ function updateRegionChart(data) {
 
             scales: {
                 y: {
-                    min: 80,
+                    min: 0,
                     max: 100,
 
                     ticks: {
